@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/%20https://unix238.github.io/react-ts-password-generator/static/css/main.fd60a2c1.css",
-    "main.js": "/%20https://unix238.github.io/react-ts-password-generator/static/js/main.906b714e.js",
-    "index.html": "/%20https://unix238.github.io/react-ts-password-generator/index.html",
-    "main.fd60a2c1.css.map": "/%20https://unix238.github.io/react-ts-password-generator/static/css/main.fd60a2c1.css.map",
-    "main.906b714e.js.map": "/%20https://unix238.github.io/react-ts-password-generator/static/js/main.906b714e.js.map"
+    "main.css": "/react-ts-password-generator/static/css/main.fd60a2c1.css",
+    "main.js": "/react-ts-password-generator/static/js/main.906b714e.js",
+    "index.html": "/react-ts-password-generator/index.html",
+    "main.fd60a2c1.css.map": "/react-ts-password-generator/static/css/main.fd60a2c1.css.map",
+    "main.906b714e.js.map": "/react-ts-password-generator/static/js/main.906b714e.js.map"
   },
   "entrypoints": [
     "static/css/main.fd60a2c1.css",
