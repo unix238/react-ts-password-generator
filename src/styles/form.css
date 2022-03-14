@@ -1,0 +1,74 @@
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.length {
+  margin-top: 10px;
+}
+
+.input {
+  margin-right: 10px;
+}
+
+.generated__password {
+  width: 350px;
+  height: 40px;
+  border: 2px solid teal;
+  border-radius: 10px;
+  padding: 0 15px;
+  font-size: 16px;
+}
+
+.settings__password {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.input__range {
+  width: 200px;
+}
+
+.length__input {
+  width: 40px;
+}
+
+.input__field {
+  width: 100%;
+  display: flex;
+  margin-top: 20px;
+  justify-content: flex-start;
+}
+
+.radio {
+  margin-top: 5px;
+}
+
+.btn {
+  width: 100px;
+  height: 40px;
+  border: 2px solid teal;
+  border-radius: 10px;
+  background: teal;
+  color: #fff;
+  padding: 0 15px;
+  font-size: 16px;
+  margin-top: 10px;
+  transition: all 0.2s ease-in-out;
+  text-align: center;
+}
+
+.btn:hover {
+  color: teal;
+  background: #fff;
+}
+
+.submit {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
